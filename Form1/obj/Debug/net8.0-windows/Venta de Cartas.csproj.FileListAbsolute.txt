@@ -1,0 +1,20 @@
+C:\Users\Erik\source\repos\Form1\Form1\bin\Debug\net8.0-windows\Venta de Cartas.exe
+C:\Users\Erik\source\repos\Form1\Form1\bin\Debug\net8.0-windows\Venta de Cartas.deps.json
+C:\Users\Erik\source\repos\Form1\Form1\bin\Debug\net8.0-windows\Venta de Cartas.runtimeconfig.json
+C:\Users\Erik\source\repos\Form1\Form1\bin\Debug\net8.0-windows\Venta de Cartas.dll
+C:\Users\Erik\source\repos\Form1\Form1\bin\Debug\net8.0-windows\Venta de Cartas.pdb
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Form1.Form1.resources
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta_de_Cartas.Form2.resources
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta_de_Cartas.Form3.resources
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta_de_Cartas.Form4.resources
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta_de_Cartas.Properties.Resources.resources
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.csproj.GenerateResource.cache
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.AssemblyInfoInputs.cache
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.AssemblyInfo.cs
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.csproj.CoreCompileInputs.cache
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.dll
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\refint\Venta de Cartas.dll
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.pdb
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\Venta de Cartas.genruntimeconfig.cache
+C:\Users\Erik\source\repos\Form1\Form1\obj\Debug\net8.0-windows\ref\Venta de Cartas.dll
