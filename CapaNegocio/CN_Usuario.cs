@@ -7,7 +7,7 @@ namespace CapaNegocio
     {
         private CD_Usuario objetoCD = new CD_Usuario();
 
-        public DataTable MostrarProd()
+        public DataTable ConsultarUsuario()
         {
 
             DataTable tabla = new DataTable();

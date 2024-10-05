@@ -20,7 +20,7 @@ namespace CapaDatos
         {
 
             comando.Connection = conexion.AbrirConexion();
-            comando.CommandText = "MostrarUsuario";
+            comando.CommandText = "ConsultarUsuario";
             comando.CommandType = CommandType.StoredProcedure;
             leer = comando.ExecuteReader();
             tabla.Load(leer);

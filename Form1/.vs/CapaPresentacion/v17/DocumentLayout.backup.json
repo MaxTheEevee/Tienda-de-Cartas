@@ -3,30 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\bienvenida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:bienvenida.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:registrocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\registrocliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:registrocliente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0C2CABA6-8098-4F68-8471-66AB8DABAAD4}|..\\CapaNegocio\\CapaNegocio.csproj|c:\\users\\erik\\source\\repos\\form1\\capanegocio\\cn_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\capapresentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:capapresentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{B53F86A2-C1B7-4F18-953C-EB5BF212FB87}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\erik\\source\\repos\\form1\\capadatos\\cd_usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:bienvenida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B53F86A2-C1B7-4F18-953C-EB5BF212FB87}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\erik\\source\\repos\\form1\\capadatos\\cd_conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B53F86A2-C1B7-4F18-953C-EB5BF212FB87}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\erik\\source\\repos\\form1\\capadatos\\cd_boleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|c:\\users\\erik\\source\\repos\\form1\\form1\\capapresentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{41DF7F44-F445-43ED-AD48-55FB1E36CE18}|CapaPresentacion.csproj|solutionrelative:capapresentacion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,6 +55,44 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RegistroCliente.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\RegistroCliente.cs",
+              "RelativeDocumentMoniker": "RegistroCliente.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\RegistroCliente.cs",
+              "RelativeToolTip": "RegistroCliente.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvxsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T22:33:36.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CD_Boleta.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Boleta.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Boleta.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Boleta.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Boleta.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAkwDoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T23:02:50.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CD_Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Conexion.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Conexion.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Conexion.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T18:54:59.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Bienvenida.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Bienvenida.cs",
               "RelativeDocumentMoniker": "Bienvenida.cs",
@@ -52,20 +104,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bienvenida.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Bienvenida.Designer.cs",
-              "RelativeDocumentMoniker": "Bienvenida.Designer.cs",
-              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Bienvenida.Designer.cs",
-              "RelativeToolTip": "Bienvenida.Designer.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAYwFAAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "RegistroCliente.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\RegistroCliente.Designer.cs",
+              "RelativeDocumentMoniker": "RegistroCliente.Designer.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\RegistroCliente.Designer.cs",
+              "RelativeToolTip": "RegistroCliente.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T23:37:04.605Z",
+              "WhenOpened": "2024-10-04T22:57:48.8Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "RegistroCliente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\RegistroCliente.cs",
+              "RelativeDocumentMoniker": "RegistroCliente.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\RegistroCliente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "RegistroCliente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:03:10.621Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -73,59 +137,57 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T23:34:43.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T23:34:43.343Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CN_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocio\\CN_Usuario.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaNegocio\\CN_Usuario.cs",
+              "RelativeToolTip": "..\\CapaNegocio\\CN_Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:09:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bienvenida.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Bienvenida.cs",
+              "RelativeDocumentMoniker": "Bienvenida.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Bienvenida.cs",
+              "RelativeToolTip": "Bienvenida.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:30:33.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CD_Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Usuario.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Usuario.cs",
+              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Usuario.cs",
+              "RelativeToolTip": "..\\CapaDatos\\CD_Usuario.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T23:34:07.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "CapaPresentacion",
               "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\CapaPresentacion.csproj",
               "RelativeDocumentMoniker": "CapaPresentacion.csproj",
               "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\CapaPresentacion.csproj",
               "RelativeToolTip": "CapaPresentacion.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-02T23:27:19.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Bienvenida.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Bienvenida.cs",
-              "RelativeDocumentMoniker": "Bienvenida.cs",
-              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\Form1\\Bienvenida.cs",
-              "RelativeToolTip": "Bienvenida.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAwBgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T23:21:50.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CD_Boleta.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Boleta.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Boleta.cs",
-              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Boleta.cs",
-              "RelativeToolTip": "..\\CapaDatos\\CD_Boleta.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAkwDoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T23:02:50.076Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CD_Conexion.cs",
-              "DocumentMoniker": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Conexion.cs",
-              "RelativeDocumentMoniker": "..\\CapaDatos\\CD_Conexion.cs",
-              "ToolTip": "C:\\Users\\Erik\\source\\repos\\Form1\\CapaDatos\\CD_Conexion.cs",
-              "RelativeToolTip": "..\\CapaDatos\\CD_Conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T18:54:59.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T23:27:19.365Z"
             }
           ]
         }

@@ -38,5 +38,10 @@ namespace Venta_de_Cartas
             registroCliente.Show();
             this.Hide();
         }
+
+        private void Bienvenida_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

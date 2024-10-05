@@ -88,6 +88,7 @@
             Controls.Add(label1);
             Name = "Bienvenida";
             Text = "Bienvenido";
+            Load += Bienvenida_Load;
             ResumeLayout(false);
             PerformLayout();
         }
